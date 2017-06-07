@@ -1,0 +1,1 @@
+alter table users add column users_name character varying(255);
